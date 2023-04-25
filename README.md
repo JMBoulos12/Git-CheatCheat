@@ -307,7 +307,3 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 <br>
 
 #### If this project helped you in any way, please consider giving it a ⭐️. It will help us reach more people and help them learn Git & GitHub.
-
-
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/MrKrishnaAgarwal/git-cheatsheet)
-<a href="https://github.com/MrKrishnaAgarwal/git-cheatsheet/pulls" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
